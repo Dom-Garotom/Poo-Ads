@@ -1,0 +1,20 @@
+questão 01
+
+a) Encapsulamento é capacidade de envelopar métodos e propriedades em uma camada de proteção de acesso por outras classes e metodos. Ela é de extrema importância para que em sistemas mais críticos não se  tenha acesso a parte mais sensível do software por outros métodos e propriedades.
+b) Ele é implementado atráves do underline onde propriedades e métodos sem o underline são consideradas de acesso publico, já com um underline eles são considerados de acesso private e com dois underline são considerados de acesso protect.
+
+questão 02
+
+Herança é a capacidade de uma classe extender/herdar alguma caracteristica de uma classe onde se uma classe pai tem um atributo x e sua classe filha herda de seu pai ela também terá o atributo x. Isso pode ser visto em softwares onde temos algumas classes abstratas que são herdadas para todo  o sistema  e ao adicionar um atributo ou remover algum atributo com erro essa ação srá refletida em todo o sistema.
+Polimorfismo é a diferenciação de um mesmo método pode ter em classes filhas que herdam esse método da classe pai. Supondo um método passado para todas as classes filhas aonde cada metodo pode ser interpretado de forma diferente por cada uma das classes filhas.
+
+questão 03
+
+Classe é a construção de algum objeto, algo semelhante a uma planta estrutural de uma casa tendo seus moveis e ações que remetem a seus atributos e métodos enquanto o objeto seria a propria casa com os moveis e ações proprios dela.
+
+questão 04 
+
+Sobrecarga de métodos é a capacidade de você utilizar o metodo herdado e incrementalo na classe filha com alguma adição propiamente sua enquanto uma sobrescrita de método é apenas reescrever aquele método a sua vontade fazendo com que ele possa ou não ter alguma relação com o método da classe pai.
+
+questão 5 e 9
+ - desconsideradas
