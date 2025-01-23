@@ -11,4 +11,4 @@ class Postagem :
         self._id =  random.randint(1 , 10000)       
         self._titulo = titulo
         self._texto = texto
-        self._dataPublicacao = datetime.datetime( ano  , mes , dia)
+        self._dataPublicacao = datetime.datetime( ano  , mes , dia) 
